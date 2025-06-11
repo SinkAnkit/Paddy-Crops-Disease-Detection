@@ -1,6 +1,6 @@
 # Paddy Disease Classification
 
-This project, developed by Ankit Singh and Bhuvan Indra G as part of the SWE2020 course, implements deep learning models for detecting and classifying diseases in paddy (rice) leaves. It uses Convolutional Neural Networks (CNNs) to classify paddy leaf images into 10 disease categories, leveraging the Kaggle "Paddy Disease Classification" dataset. The project is implemented in a Jupyter Notebook designed to run in Google Colab with GPU support.
+This project, developed by Ankit Singh and Bhuvan Indra G as part of the Software Metrics course, implements deep learning models for detecting and classifying diseases in paddy (rice) leaves. It uses Convolutional Neural Networks (CNNs) to classify paddy leaf images into 10 disease categories, leveraging the Kaggle "Paddy Disease Classification" dataset. The project is implemented in a Jupyter Notebook designed to run in Google Colab with GPU support.
 
 ## Project Overview
 
