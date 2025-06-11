@@ -131,10 +131,4 @@ Please read the [DISCLAIMER](DISCLAIMER.md) for important information about the 
 - Dataset: [Paddy Disease Classification](https://www.kaggle.com/competitions/paddy-disease-classification).
 - Libraries: TensorFlow, Keras, OpenCV, Pandas, NumPy, Matplotlib.
 
-## Contact
 
-For issues or questions, please open an issue on GitHub or contact:
-- Bhuvan Indra G
-- Phone No: +91 9491149955
-- [Email](mailto:gbindra21@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/bhuvan-indra-995828274)
