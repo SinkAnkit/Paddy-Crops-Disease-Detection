@@ -24,8 +24,4 @@ Please note that the authors may not be able to respond promptly to queries, but
 
 By using this software, you acknowledge that you have read, understood, and agree to be bound by this disclaimer.
 
-For questions or concerns, please contact:
-- Bhuvan Indra G
-- Phone No: +91 9491149955
-- [Email](mailto:gbindra21@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/bhuvan-indra-995828274)
+
