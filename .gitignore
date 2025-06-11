@@ -1,0 +1,26 @@
+# Ignore dataset directory
+paddy-disease-classification/
+
+# Ignore model files
+*.h5
+saved_models/
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore dataset ZIP files
+*.zip
+
+# Ignore logs and other temporary files
+*.log
+*.tmp
+temp/
